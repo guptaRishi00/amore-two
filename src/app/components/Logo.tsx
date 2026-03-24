@@ -1,9 +1,9 @@
-"use client"
+"use client";
 
-import React from 'react';
+import React from "react";
 
 const Logo = () => (
-  <div className="flex items-center gap-1 group cursor-pointer">
+  <div className="flex items-center gap-1 group cursor-pointer lg:-translate-x-15">
     <div className="relative font-condensed text-2xl sm:text-3xl md:text-4xl text-[#4573b9]">
       Aa<span className="text-[#345a96]">m</span>
       <div className="inline-block relative w-6 h-6 sm:w-7 sm:h-7 md:w-8 md:h-8 mx-0.5 translate-y-1">
